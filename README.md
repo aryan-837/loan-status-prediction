@@ -1,1 +1,2 @@
 # loan-status-prediction
+The Loan Status Prediction project aims to develop a machine learning model that predicts the status of loan applications as either approved or rejected. The model is built using Support Vector Machines (SVM), a powerful classification algorithm. The primary objective of this project is to assist financial institutions in automating the loan approval process by accurately predicting loan statuses based on historical application and individual data.
